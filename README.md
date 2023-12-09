@@ -1,0 +1,2 @@
+# ps
+ps = ping sweep
