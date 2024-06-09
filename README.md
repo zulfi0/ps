@@ -14,3 +14,8 @@ $pwd = ConvertTo-SecureString <encrypted text here>
 $cred = New-Object System.Management.Automation.PSCredential -ArgumentList "User",$pwd
 $cred.GetNetworkCredential()
 ```
+to Execute Command in powershell as another user without runasCs :
+```powershell
+invoke-command -Computername localhost -Credential $cred -ScriptBlock { whoami }
+```
+note: you might find yourself in more restriction for using invoke-command rather than RunasCs 
